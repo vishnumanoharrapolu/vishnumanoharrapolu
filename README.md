@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumanoharrapolu&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumanoharrapolu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://manoharportfolio.vercel.app/]([portfolio])
+- 👨‍💻 All of my projects are available at [https://manoharportfolio.vercel.app)]([https://manoharportfolio.vercel.app/])
 
 - 📫 How to reach me **vishnumanoharrapolu@gmail.com**
 
